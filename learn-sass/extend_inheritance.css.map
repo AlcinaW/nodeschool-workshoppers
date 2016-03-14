@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,0BAAa;EACZ,gBAAgB,EAAE,IAAI;;AAEvB,YAAa;EAEZ,WAAW,EAAE,IAAI",
+"sources": ["extend_inheritance.scss"],
+"names": [],
+"file": "extend_inheritance.css"
+}
