@@ -140,3 +140,5 @@ server.on('request', function (request, response) {
 //got a response object, now send a write + end of building object, send to client
 //this is the bridge between front and back-end (everything that happens on the server)
 //because the server needs to be restarted every time there is a change on the server, can use the npm nodemon to auto restart
+
+//ref: tessalt/node-server-workshop
